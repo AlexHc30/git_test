@@ -1,0 +1,3 @@
+hello World!
+these are my first steps in learning to use Git
+as part of my epic journey of learning front-end development
